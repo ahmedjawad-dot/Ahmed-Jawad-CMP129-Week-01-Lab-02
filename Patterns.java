@@ -14,7 +14,7 @@ public class Patterns {
             }
             System.out.println();
         }
-
+        System.out.println();
         int rows1 = 10;
 
         System.out.println("Pattern B");
